@@ -9,4 +9,4 @@ app.use(cors());  // Determina quem pode acessar a aplicacao
 app.use(express.json());
 app.use(routes);
 
-app.listen('3000');
+app.listen('3001');
